@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Code on Github](https://github.com/abdo-kotb/fylo-dark-theme-landing-page)
-- [Live Site URL](https://abdo-kotb.github.com/fylo-dark-theme-landing-page)
+- Solution URL: [Code on Github](https://github.com/Mannypulator/Fylo-dark-theme-landing--page)
+- [Live Site URL](https://mannypulator.github.io/Fylo-dark-theme-landing--page/)
 
 ## My process
 
@@ -46,11 +46,6 @@ Users should be able to:
 
 ## Author
 
-- Git hub - [abdo-kotb](github.com/abdo-kotb)
-- [Linkedin](https://www.linkedin.com/in/abdulrhman-mohammed-5687781b5/)
-- Frontend Mentor - [@abdo-kotb](https://www.frontendmentor.io/profile/abdo-kotb)
-
-Abdulrhman Kotb
-
-
-
+- Git hub - [mannypulator](github.com/mannypulator)
+- [Linkedin](https://www.linkedin.com/in/enakhimion-emmanuel-593146155/)
+- Frontend Mentor - [@mannypulator](https://www.frontendmentor.io/profile/Mannypulator)
